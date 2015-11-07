@@ -1,0 +1,4 @@
+This is a project to build up a weather station which is mainly using rain gauge, as well as DHT22 sensor.
+The main ingredients for the project is Tipping bucket, DHT22, Arduino Uno, GSM/GPRS 900, Simcard...
+The data collected from sensors will be posted on Ubidots by using cellular network.
+By Guannan Wang 2015-11-06
